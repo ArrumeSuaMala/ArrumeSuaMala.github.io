@@ -1,21 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.95106f67.chunk.css",
-    "main.js": "/static/js/main.d1e476c2.chunk.js",
-    "main.js.map": "/static/js/main.d1e476c2.chunk.js.map",
+    "main.css": "/static/css/main.7bea4b37.chunk.css",
+    "main.js": "/static/js/main.da88c711.chunk.js",
+    "main.js.map": "/static/js/main.da88c711.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.9d8f3c50.js",
     "runtime-main.js.map": "/static/js/runtime-main.9d8f3c50.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b99ee52d.chunk.js": "/static/js/2.b99ee52d.chunk.js",
-    "static/js/2.b99ee52d.chunk.js.map": "/static/js/2.b99ee52d.chunk.js.map",
+    "static/js/2.5771ec15.chunk.js": "/static/js/2.5771ec15.chunk.js",
+    "static/js/2.5771ec15.chunk.js.map": "/static/js/2.5771ec15.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8e230ee45c69f08eb05471fb3cbd9fb1.js": "/precache-manifest.8e230ee45c69f08eb05471fb3cbd9fb1.js",
+    "precache-manifest.91a00f0f72bc8ffdc1cf025a10bf6fce.js": "/precache-manifest.91a00f0f72bc8ffdc1cf025a10bf6fce.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.95106f67.chunk.css.map": "/static/css/main.95106f67.chunk.css.map",
-    "static/js/2.b99ee52d.chunk.js.LICENSE.txt": "/static/js/2.b99ee52d.chunk.js.LICENSE.txt",
+    "static/css/main.7bea4b37.chunk.css.map": "/static/css/main.7bea4b37.chunk.css.map",
+    "static/js/2.5771ec15.chunk.js.LICENSE.txt": "/static/js/2.5771ec15.chunk.js.LICENSE.txt",
     "static/media/beach.jpg": "/static/media/beach.94f41db3.jpg",
     "static/media/bosque-do-alemao.jpg": "/static/media/bosque-do-alemao.d87cd1b2.jpg",
+    "static/media/cida.jpg": "/static/media/cida.dcd84182.jpg",
     "static/media/logo-md.png": "/static/media/logo-md.b91b0e3b.png",
     "static/media/praca-das-peraputangas.jpg": "/static/media/praca-das-peraputangas.43f68595.jpg",
     "static/media/waterfall.jpg": "/static/media/waterfall.911a69dd.jpg"
@@ -23,8 +24,8 @@
   "entrypoints": [
     "static/js/runtime-main.9d8f3c50.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b99ee52d.chunk.js",
-    "static/css/main.95106f67.chunk.css",
-    "static/js/main.d1e476c2.chunk.js"
+    "static/js/2.5771ec15.chunk.js",
+    "static/css/main.7bea4b37.chunk.css",
+    "static/js/main.da88c711.chunk.js"
   ]
 }

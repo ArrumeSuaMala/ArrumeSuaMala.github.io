@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACE,QAAS,CACT,SAAU,CACV,kCAAoC,CACpC,eAAgB,CAChB,cACF","file":"main.95106f67.chunk.css","sourcesContent":["html, body {\n  margin: 0;\n  padding: 0;\n  font-family: 'Open Sans', sans-serif;\n  font-weight: 300;\n  font-size: 14px;\n}"]}
